@@ -1,3 +1,5 @@
 let hi = "Hola Mundo!";
 
-console.log(hi);
+let people = "Espero esten todos bien!";
+
+console.log(hi + people);
